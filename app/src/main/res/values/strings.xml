@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UWUX</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="bmi">BODY MASS INDEX</string>
+    <string name="bmi_details">BMI Details</string>
+    <string name="bmi_preview">18.61</string>
+    <string name="text1">HELLO OLIVIA , YOU ARE NORMAL</string>
+    <string name="text2">Normal BMI range: 18.5kg/m2 &#8211; 25kg/m2</string>
+    <string name="text3">Ponderal Index 10.64kg/m3</string>
+
+</resources>
